@@ -4,7 +4,7 @@ Homework 4 (Pandas)
 ## Overview
 This repository contains the following:
 
-* HeroesOfPymoli
+* HeroesOfPymoli:
 A folder containing the Jupyter notebook file pymoli.ipynb, which analyzes the in-game user purchase data for a fantasy game called Heroes of Pymoli, produced by an independent gaming company. Analyses produced data points including:
 
   * Total number of players
@@ -15,7 +15,7 @@ A folder containing the Jupyter notebook file pymoli.ipynb, which analyzes the i
   * Most popular items purchased
   * Most profitable items
 
-* Resources
+* Resources:
 A folder containing the CSV file purchase_data.csv, which is the raw data file containing the user purchase data for Heroes of Pymoli.
 
 ## Trends Observed
